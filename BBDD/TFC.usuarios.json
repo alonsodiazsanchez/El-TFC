@@ -1,0 +1,41 @@
+[{
+  "_id": 1,
+  "nombre": "Ana López",
+  "email": "ana@mail.com",
+  "contraseña": "1234",
+  "rol": "organizador",
+  "telefono": "+34600111222",
+  "eventos": []
+},
+{
+  "_id": 2,
+  "nombre": "Juan Pérez",
+  "email": "juan@mail.com",
+  "contraseña": "abcd",
+  "rol": "participante",
+  "telefono": null,
+  "eventos": [
+    {
+      "id_evento": 101,
+      "fecha_inscripcion": "2026-01-10"
+    },
+    {
+      "id_evento": 103,
+      "fecha_inscripcion": "2026-02-01"
+    }
+  ]
+},
+{
+  "_id": 3,
+  "nombre": "Marta Ruiz",
+  "email": "marta@mail.com",
+  "contraseña": "xyz789",
+  "rol": "participante",
+  "telefono": null,
+  "eventos": [
+    {
+      "id_evento": 101,
+      "fecha_inscripcion": "2026-01-11"
+    }
+  ]
+}]
