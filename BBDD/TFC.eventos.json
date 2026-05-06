@@ -1,0 +1,36 @@
+[
+    {
+  "_id": 101,
+  "nombre": "Hackathon 2026",
+  "duracion": "48h",
+  "ubicacion": "Madrid",
+  "categoria": "Conferencia",
+  "organizadores": [
+    1
+  ],
+  "participantes": [
+    {
+      "id_usuario": 2,
+      "fecha_inscripcion": "2026-01-10"
+    },
+    {
+      "id_usuario": 3,
+      "fecha_inscripcion": "2026-01-11"
+    }
+  ]
+},
+{
+  "_id": 103,
+  "nombre": "Taller de Fotografía",
+  "duracion": "4h",
+  "ubicacion": "Valencia",
+  "categoria": "Taller",
+  "organizadores": [],
+  "participantes": [
+    {
+      "id_usuario": 2,
+      "fecha_inscripcion": "2026-02-01"
+    }
+  ]
+}
+]
